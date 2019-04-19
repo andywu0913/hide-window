@@ -1,3 +1,3 @@
 # Hide Window
 
-A small gadget that allows to turn process become invisible in the task manager.
+A small gadget that allows user to set process being invisible in the task manager.
